@@ -88,5 +88,7 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 ## 👤 Author
 
 **Kumar Wankhade** — Data Analyst
-- 🔗 [LinkedIn]()
-📧 (kumarwankhade321@gmail.com)
+
+🔗www.linkedin.com/in/kumarwankhade
+  
+📧 kumarwankhade321@gmail.com
