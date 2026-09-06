@@ -75,21 +75,6 @@ Churn rate by monthly spending, international transactions, credit score, card t
 **Dashboard 2 — Customer Demographics**
 Overall churn rate, plus churn by age group, gender, education, employment status, and the monthly spending trend.
 
-*(See dashboard images in this repository.)*
-
-
-## Project Structure
-
-Credit_Card_Churn_Analysis/
-│
-├── data/
-├── notebooks/
-├── charts/
-├── reports/
-├── README.md
-├── requirements.txt
-└── .gitignore
-
 
 ## 🚀 How to Run
 
